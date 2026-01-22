@@ -1,0 +1,194 @@
+Part12.                  
+
+21 كانون الثاني, 2026
+03:47 م
+
+Based on the three PDF files provided, here is the extracted data for all soccer matches, including time, match ID, and teams. The data has been organized in chronological order and presented in English.
+
+---
+
+Extracted Match Data (Chronological Order)
+
+Matches from 03.01.2026 (January 3, 2026)
+
+Match ID Time Home Team Score Away Team
+1 00:00 Cameroon 3 : 0 Japan
+2 00:10 Italy 0 : 2 Brazil
+3 00:20 Mongolia 0 : 0 Korea
+4 00:30 Korea 1 : 2 Guinea
+6 00:50 Mexico 0 : 0 Thailand
+7 01:00 Guinea 1 : 3 Mexico
+8 01:10 Japan 0 : 1 Germany
+9 01:20 Brazil 3 : 1 Italy
+10 01:30 Germany 0 : 2 Cameroon
+11 01:40 Argentina 1 : 0 Japan
+12 01:50 Mongolia 0 : 0 Guinea
+13 02:00 Guinea 1 : 0 Mexico
+14 02:10 Japan 2 : 0 Brazil
+15 02:20 Italy 4 : 1 Mongolia
+16 02:30 Germany 1 : 0 Italy
+17 02:40 Korea 2 : 0 Guinea
+18 02:50 Brazil 0 : 1 Cameroon
+19 03:00 Mongolia 3 : 0 Japan
+20 03:10 Senegal 2 : 0 Mongolia
+21 03:20 Cameroon 3 : 1 England
+22 03:30 Argentina 3 : 0 Senegal
+23 03:40 Japan 0 : 2 Germany
+24 03:50 Germany 1 : 0 Brazil
+25 04:00 Mexico 0 : 1 Mongolia
+26 04:10 Senegal 1 : 1 England
+27 04:20 Italy 1 : 2 Cameroon
+29 04:40 Germany 2 : 0 Guinea
+30 04:50 Cameroon 0 : 0 Argentina
+31 05:00 Korea 0 : 0 Mexico
+32 05:10 Senegal 1 : 3 Brazil
+33 05:20 Japan 1 : 0 Senegal
+34 05:30 Germany 1 : 0 Cameroon
+35 05:40 Brazil 0 : 1 Italy
+36 05:50 Cameroon 0 : 3 Argentina
+37 06:00 Argentina 1 : 1 Japan
+38 06:10 Guinea 0 : 0 Thailand
+39 06:20 Mongolia 1 : 1 England
+40 06:30 Japan 1 : 1 Senegal
+41 06:40 Cameroon 4 : 0 Argentina
+42 06:50 Brazil 1 : 1 Japan
+43 07:00 Italy 0 : 1 Germany
+44 07:10 Senegal 0 : 1 England
+45 07:20 Korea 1 : 0 Mexico
+46 07:30 England 0 : 0 Cameroon
+47 07:40 Argentina 1 : 1 Senegal
+48 07:50 Italy 1 : 0 Brazil
+49 08:00 Senegal 4 : 1 Japan
+50 08:10 Thailand 0 : 0 Korea
+51 08:20 Germany 1 : 2 Argentina
+52 08:30 Mongolia 0 : 1 Senegal
+53 08:40 Cameroon 2 : 0 England
+54 08:50 Korea 2 : 0 Guinea
+55 09:00 Senegal 1 : 0 Brazil
+56 09:10 Brazil 2 : 0 Thailand
+57 09:20 Guinea 0 : 1 Korea
+58 09:30 Germany 2 : 1 Cameroon
+59 09:40 England 0 : 0 Japan
+60 09:50 Mongolia 1 : 1 Guinea
+61 10:00 Italy 3 : 0 Germany
+62 10:10 Senegal 1 : 1 Brazil
+63 10:20 Thailand 2 : 0 Mexico
+64 10:30 Japan 2 : 0 England
+65 10:40 Germany 1 : 0 Cameroon
+66 10:50 Italy 3 : 0 Guinea
+67 11:00 Senegal 0 : 3 Japan
+68 11:10 Not Specified 1 : 1 Not Specified
+69 11:20 Korea 1 : 1 Senegal
+70 11:30 Cameroon 0 : 0 Argentina
+71 11:40 Germany 1 : 1 Brazil
+72 11:50 Japan 1 : 2 Cameroon
+73 12:00 Italy 1 : 2 Germany
+75 12:20 England 2 : 1 Korea
+76 12:30 Brazil 2 : 0 Italy
+77 12:40 Mongolia 0 : 1 Japan
+78 12:50 Germany 2 : 2 Cameroon
+79 13:00 Senegal 1 : 0 England
+80 13:10 Italy 2 : 0 Germany
+81 13:20 Brazil 1 : 2 Italy
+82 13:30 Mongolia 0 : 1 Senegal
+83 13:40 Germany 1 : 2 Argentina
+84 13:50 Korea 0 : 2 Mexico
+85 14:00 Japan 1 : 2 Brazil
+86 14:10 Brazil 1 : 0 England
+87 14:20 Italy 2 : 0 Germany
+88 14:30 Mongolia 0 : 0 Korea
+89 14:40 Cameroon 1 : 0 Senegal
+90 14:50 Senegal 0 : 2 Argentina
+91 15:00 Argentina 0 : 0 England
+92 15:10 Germany 2 : 0 Cameroon
+93 15:20 Thailand 1 : 0 Korea
+94 15:30 Mongolia 3 : 3 Germany
+95 Not Specified Not Specified 2 : 2 Not Specified
+
+Matches from 04.01.2026 (January 4, 2026)
+
+Match ID Time Home Team Score Away Team
+69 11:20 Mongolia 5 : 0 Mexico
+70 11:30 England 1 : 0 Senegal
+71 11:40 Senegal 0 : 2 Cameroon
+72 11:50 Korea 2 : 0 Guinea
+73 12:00 Italy 1 : 0 Brazil
+74 12:10 Japan 2 : 0 Germany
+75 12:20 Brazil 2 : 1 Argentina
+76 12:30 Germany 1 : 0 Cameroon
+77 12:40 Thailand 0 : 0 Mexico
+78 12:50 Italy 0 : 0 Brazil
+79 13:00 Senegal 3 : 0 Japan
+80 13:10 Mongolia 0 : 0 Senegal
+81 13:20 Mexico 0 : 0 Thailand
+82 13:30 Japan 1 : 1 Cameroon
+83 13:40 Cameroon 2 : 0 Argentina
+84 13:50 Brazil 3 : 3 Germany
+85 14:00 Korea 1 : 2 Senegal
+86 14:10 Mexico 0 : 1 Mongolia
+87 14:20 Mongolia 0 : 1 England
+88 14:30 Germany 0 : 3 Italy
+89 14:40 Senegal 0 : 0 Japan
+90 14:50 Guinea 0 : 1 Thailand
+91 15:00 Italy 2 : 1 Senegal
+92 15:10 Korea 1 : 1 Mexico
+93 15:20 Japan 1 : 0 Korea
+94 15:30 Argentina 0 : 2 Italy
+95 15:40 Germany 1 : 1 Argentina
+96 15:50 Cameroon 0 : 0 England
+97 16:00 Italy 3 : 1 Brazil
+98 16:10 Korea 0 : 2 Senegal
+99 16:20 Brazil 0 : 2 Italy
+100 16:30 England 1 : 0 Japan
+101 16:40 Germany 3 : 1 Cameroon
+102 16:50 Mexico 0 : 2 Argentina
+103 17:00 Cameroon 3 : 0 England
+104 17:10 Brazil 0 : 1 Italy
+105 17:20 Italy 3 : 2 Germany
+106 17:30 Korea 3 : 1 Mexico
+107 17:40 Senegal 1 : 0 Mongolia
+108 17:50 Argentina 1 : 0 Senegal
+109 18:00 Mongolia 0 : 0 Guinea
+110 18:10 Cameroon 2 : 1 Argentina
+111 18:20 Brazil 1 : 1 England
+112 18:30 Senegal 0 : 0 Mongolia
+113 18:40 Germany 2 : 1 Brazil
+114 18:50 Guinea 0 : 1 Thailand
+115 19:00 England 0 : 0 Japan
+116 19:10 Brazil 1 : 2 Italy
+118 19:30 Mexico 0 : 3 Senegal
+119 19:40 Italy 0 : 0 Germany
+120 19:50 Mongolia 0 : 0 Mexico
+121 20:00 Germany 5 : 0 Brazil
+122 20:10 Japan 3 : 1 England
+123 20:20 Not Specified 2 : 2 Not Specified
+124 20:30 Korea 0 : 2 Senegal
+125 20:40 Senegal 0 : 1 Mongolia
+126 20:50 Mongolia 1 : 0 Mexico
+127 21:00 Mexico 0 : 3 Argentina
+128 21:10 Argentina 0 : 3 Germany
+129 21:20 Brazil 3 : 0 Japan
+130 21:30 Korea 1 : 3 Senegal
+131 21:40 Germany 0 : 1 Brazil
+132 21:50 Senegal 0 : 0 Mongolia
+133 22:00 Mongolia 1 : 1 Korea
+134 22:10 Japan 0 : 0 Germany
+135 22:20 Korea 2 : 1 Senegal
+136 22:30 Japan 2 : 1 Argentina
+137 22:40 Italy 3 : 0 Guinea
+138 22:50 Germany 0 : 1 Argentina
+139 23:00 Senegal 0 : 1 Mongolia
+140 23:10 Mexico 1 : 2 Thailand
+141 23:20 Japan 3 : 1 England
+142 23:30 Thailand 0 : 0 Mexico
+143 23:40 Argentina 1 : 1 Cameroon
+144 23:50 England 0 : 0 Senegal
+
+---
+
+Note: Some entries (e.g., Match ID 68, 95, 123) have incomplete or missing team names. Where possible, the available information has been included. The data is sorted by date and time for clarity.
+
+Here is the extracted match data from the additional PDF files, organized chronologically by date and time. All text has been standardized in English.---Extracted Match Data (Chronological Order)Matches from 03.01.2026 (January 3, 2026)Match ID Time Home Team Score Away Team94 15:30 Mongolia 3 : 3 Germany95 15:40 Korea 2 : 2 Mexico96 15:50 Argentina 2 : 2 Not Specified98 16:10 Brazil 3 : 1 Japan99 16:20 Japan 2 : 1 Senegal100 16:30 Germany 1 : 2 England101 16:40 Argentina 0 : 0 Cameroon102 16:50 Italy 4 : 1 Guinea103 17:00 Mongolia 0 : 0 Korea104 17:10 Korea 0 : 2 Senegal105 17:20 Senegal 2 : 0 Mexico106 17:30 Germany 2 : 1 Cameroon107 17:40 England 2 : 0 Japan111 18:20 Japan 1 : 2 Germany112 18:30 Mongolia 1 : 0 Guinea113 18:40 England 1 : 2 Cameroon114 18:50 Germany 2 : 0 Senegal115 19:00 Senegal 0 : 0 Mongolia116 19:10 Brazil 0 : 1 Italy117 19:20 Korea 1 : 1 Mexico118 19:30 Cameroon 1 : 1 Argentina119 19:40 Germany 2 : 1 England120 19:50 Mexico 1 : 2 Brazil121 20:00 Argentina 0 : 0 Japan122 20:10 England 0 : 0 Korea123 20:20 Cameroon 1 : 1 Argentina124 20:30 Mongolia 0 : 0 Senegal125 20:40 Japan 1 : 1 England126 20:50 Brazil 2 : 1 Italy127 21:00 Guinea 1 : 0 Mexico128 21:10 Italy 2 : 1 Not Specified129 21:20 Cameroon 2 : 2 Japan130 21:30 Germany 1 : 0 Argentina131 21:40 Korea 0 : 3 England132 21:50 Mexico 2 : 1 Thailand133 22:00 Argentina 1 : 3 Cameroon134 22:10 Brazil 2 : 3 Italy135 22:20 Not Specified 0 : 0 Not Specified136 22:30 Korea 2 : 1 Senegal137 22:40 Korea 1 : 0 Mexico138 22:50 Argentina 2 : 0 Cameroon139 23:00 Senegal 1 : 0 Argentina140 23:10 Brazil 1 : 2 Italy141 23:20 Italy 0 : 1 Brazil142 23:30 Mongolia 0 : 0 Guinea143 23:40 Japan 2 : 0 Cameroon144 23:50 Guinea 0 : 3 MexicoMatches from 02.01.2026 (January 2, 2026)Match ID Time Home Team Score Away Team1 00:00 Germany 1 : 1 Brazil2 00:10 England 0 : 1 Mongolia3 00:20 Argentina 1 : 0 Cameroon4 00:30 Guinea 0 : 0 Mexico5 00:40 Italy 1 : 2 Germany6 00:50 Germany 2 : 1 Argentina7 01:00 Brazil 1 : 1 Thailand8 01:10 England 0 : 0 Japan9 01:20 Mongolia 1 : 0 Guinea10 01:30 Italy 1 : 0 Germany11 01:40 Korea 2 : 1 Senegal12 01:50 Japan 1 : 1 England13 02:00 Thailand 1 : 1 Mexico14 02:10 Senegal 1 : 1 Cameroon15 02:20 Italy 1 : 2 Brazil16 02:30 Mongolia 2 : 0 Guinea17 02:40 Germany 1 : 1 Italy18 02:50 England 3 : 0 Japan19 03:00 Senegal 0 : 1 Germany20 03:10 Italy 4 : 0 Mongolia21 03:20 Guinea 0 : 2 Senegal22 03:30 Not Specified 0 : 0 England23 03:40 Cameroon 0 : 2 Argentina24 03:50 Japan 1 : 0 Thailand25 04:00 Italy 2 : 0 Germany26 04:10 Senegal 0 : 2 Cameroon27 04:20 Germany 1 : 2 Brazil28 04:30 Brazil 2 : 1 Italy29 04:40 Not Specified 2 : 1 Mexico33 05:20 England 2 : 0 Senegal34 05:30 Italy 1 : 0 Germany35 05:40 Brazil 1 : 0 Italy36 05:50 England 1 : 0 Not Specified37 06:00 Cameroon 2 : 1 Argentina38 06:10 Mongolia 1 : 0 Mexico39 06:20 Japan 3 : 3 Brazil40 06:30 Brazil 3 : 0 Cameroon41 06:40 Senegal 1 : 2 England42 06:50 Germany 2 : 0 Argentina43 07:00 Mongolia 1 : 0 Guinea44 07:10 Italy 3 : 0 Mongolia45 07:20 Guinea 0 : 1 Mexico46 07:30 Cameroon 1 : 1 Japan47 07:40 Japan 1 : 1 Cameroon48 07:50 Senegal 0 : 2 Argentina49 08:00 Thailand 0 : 1 Guinea50 08:10 Guinea 0 : 1 Mexico51 08:20 Brazil 0 : 0 Italy52 08:30 Argentina 1 : 0 Cameroon53 08:40 Italy 1 : 0 Korea54 08:50 Mexico 0 : 2 Germany55 09:00 Guinea 0 : 1 Senegal56 09:10 Senegal 0 : 0 Mongolia58 09:30 Cameroon 4 : 0 Not Specified59 09:40 Mexico 0 : 0 Argentina60 09:50 Germany 4 : 0 England61 10:00 Brazil 2 : 1 Germany62 10:10 Korea 0 : 0 Guinea63 10:20 Italy 1 : 1 Brazil64 10:30 Mongolia 0 : 1 Cameroon65 10:40 Japan 1 : 0 England66 10:50 Senegal 0 : 4 Japan67 11:00 Argentina 1 : 2 Italy68 11:10 Korea 0 : 2 Mexico69 11:20 Cameroon 2 : 2 Argentina70 11:30 Japan 1 : 2 Brazil71 11:40 Brazil 1 : 1 Japan72 11:50 Argentina 0 : 2 Cameroon73 12:00 Italy 1 : 0 Germany74 12:10 Cameroon 0 : 2 Argentina75 12:20 Korea 1 : 0 Guinea76 12:30 Senegal 0 : 2 England77 12:40 Argentina 1 : 0 Japan78 12:50 Japan 1 : 3 Italy79 13:00 Italy 4 : 1 Mongolia80 13:10 Mongolia 0 : 3 Cameroon81 13:20 Guinea 0 : 0 Mexico82 13:30 Germany 2 : 0 England83 13:40 Senegal 0 : 3 Japan84 13:50 Italy 3 : 0 Guinea85 14:00 Brazil 0 : 1 Germany86 14:10 Mongolia 1 : 0 Mexico87 14:20 Germany 2 : 0 Argentina88 14:30 Japan 1 : 1 England89 14:40 Thailand 1 : 0 Guinea90 14:50 Guinea 1 : 0 Korea91 15:00 Mongolia 1 : 0 Mexico92 15:10 Germany 1 : 0 Italy93 15:20 Cameroon 1 : 1 Japan94 15:30 Korea 1 : 2 Senegal95 15:40 Senegal 2 : 0 Cameroon96 15:50 Italy 3 : 0 Guinea97 16:00 Brazil 3 : 0 Italy98 16:10 Mongolia 1 : 0 Brazil99 16:20 Germany 2 : 0 Argentina100 16:30 England 0 : 1 Cameroon101 16:40 Senegal 0 : 3 Japan102 16:50 Korea 2 : 2 Mexico103 17:00 Mongolia 1 : 0 Senegal104 17:10 Brazil 2 : 0 England105 17:20 Italy 1 : 1 Mongolia106 17:30 England 0 : 0 Cameroon107 17:40 Cameroon 2 : 1 Japan108 17:50 Germany 0 : 2 Argentina109 18:00 Korea 2 : 0 Mexico110 18:10 Mongolia 1 : 0 Senegal111 18:20 Thailand 1 : 1 Korea112 18:30 Italy 1 : 1 Germany113 18:40 Senegal 1 : 0 Japan114 18:50 Argentina 2 : 0 England115 19:00 Germany 1 : 1 Senegal116 19:10 Brazil 2 : 1 Italy117 19:20 Italy 2 : 0 Germany118 19:30 Thailand 3 : 0 Mexico119 19:40 Senegal 1 : 0 Mongolia120 19:50 Mongolia 0 : 2 Senegal121 20:00 Japan 0 : 1 Cameroon122 20:10 Germany 1 : 1 Argentina123 20:20 Cameroon 2 : 2 Japan124 20:30 England 2 : 3 Mongolia125 20:40 Italy 2 : 0 Germany126 20:50 Japan 0 : 0 Cameroon127 21:00 Brazil 1 : 3 Senegal128 21:10 Cameroon 2 : 0 Argentina129 21:20 Argentina 1 : 2 England---Notes:· Some matches have incomplete team names or missing information (marked as "Not Specified").· All times and dates are as extracted.· Match IDs are sequential but may have gaps or overlaps due to how the data was originally structured.· Data is presented in chronological order for clarity, grouped by date.
+
+
+الحصول على Microsoft OneNote: https://aka.ms/GetOneNoteMobile
